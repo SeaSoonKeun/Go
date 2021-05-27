@@ -100,6 +100,7 @@ func main() {
 	fmt.Printf("str Type %T, str = %q\n", str, str)
 	str = strconv.FormatBool(sz4)
 	fmt.Printf("str Type %T, str = %q\n", str, str)
+<<<<<<< HEAD
 	// 流程控制
 	//pc_circle()
 	// 跳转控制 continue break goto return
@@ -118,4 +119,6 @@ func main() {
 		fmt.Println(s1,s2)
 	*/
 	test()
+=======
+>>>>>>> 5c740487fd5c475a6c502251c667d8bfdbbcfc8f
 }
